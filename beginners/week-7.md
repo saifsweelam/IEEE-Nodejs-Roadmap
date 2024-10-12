@@ -3,18 +3,16 @@
 ## Main Topics
 
 * Express.js
-    - [CodeZone (Express)](https://m.youtube.com/watch?v=vjde20smUpM&list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2&index=6&t=1s&pp=iAQB) & [Courses 4 Arab (EJS)](https://m.youtube.com/watch?v=Qns_i2_XBdg)
+    - [CodeZone](https://www.youtube.com/watch?v=XRoV7moNSsM)
+    - [Net Ninja](https://m.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) [6:12]
 
-    - [The Net Ninja (Express.js & Mongoose)](https://m.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU) [6:12]
+* Template Engines
+    - [KMR Script](https://www.youtube.com/watch?v=t1ovpjismUs)
+    - [Net Ninja](https://www.youtube.com/watch?v=yXEesONd_54)
 
 * MongoDB & Mongoose
-    - [CodeZone](https://m.youtube.com/watch?v=vjde20smUpM&list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2&index=6&t=1s&pp=iAQB)
-
-    - [The Net Ninja (MongoDB)](https://m.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
-
- 
-
-
+    - [CodeZone](https://m.youtube.com/watch?v=vjde20smUpM)
+    - [Net Ninja](https://m.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
 
 ## Extra Resources
 
